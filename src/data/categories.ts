@@ -1,0 +1,16 @@
+export const categories: Category[] = [
+  { id: 1, name: "Burgers", image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd" },
+  { id: 2, name: "Sushi", image: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c" },
+  { id: 3, name: "Pizza", image: "https://images.unsplash.com/photo-1513104890138-7c749659a591" },
+  { id: 4, name: "Italian", image: "https://plus.unsplash.com/premium_photo-1664478291780-0c67f5fb15e6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fHww" },
+  { id: 5, name: "Mexican", image: "https://media.istockphoto.com/id/610239866/pt/foto/mexican-food-delicious-taco-shells-with-ground-beef-and.webp?a=1&b=1&s=612x612&w=0&k=20&c=g7jSlKFjHiuGTIZVI8T0Vr5ucf1cVbxt01n0mEq_xTc=" },
+  { id: 6, name: "Brazilian", image: "https://media.istockphoto.com/id/478862923/pt/foto/brasileiro-feijoada-feij%C3%B5es.webp?a=1&b=1&s=612x612&w=0&k=20&c=cgV5wilqgsm8EhUhvQyqEB9My3LAooUhHWcb0rS6Kg8=" },
+  { id: 7, name: "Asian", image: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092" },
+  { id: 8, name: "Healthy", image: "https://media.istockphoto.com/id/1472680285/pt/foto/healthy-meal-with-grilled-chicken-rice-salad-and-vegetables-served-by-woman.webp?a=1&b=1&s=612x612&w=0&k=20&c=uWG5Hj50a7Ajwejef7VXsx136aykkwCTlAcgUceoZ2o=" },
+  { id: 9, name: "Desserts", image: "https://images.unsplash.com/photo-1476887334197-56adbf254e1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RGVzc2VydHMlMjBmb29kfGVufDB8fDB8fHww" },
+  { id: 10, name: "Drinks", image: "https://plus.unsplash.com/premium_photo-1730240764655-d52ec777e12b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RHJpbmtzJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D" },
+  { id: 11, name: "Bakery", image: "https://media.istockphoto.com/id/583689426/pt/foto/fresh-mixed-bun-rolls-and-sourdough-bread.webp?a=1&b=1&s=612x612&w=0&k=20&c=jNunsqRjkdNR0HsL-Fv0rb-UpCqWAm_gj_V9f_DSG_g=" },
+  { id: 12, name: "Pharmacy", image: "https://media.istockphoto.com/id/1325914490/pt/foto/modern-pharmacy-drugstore-with-shelves-full-of-packages-full-of-modern-medicine-drugs-vitamin.webp?a=1&b=1&s=612x612&w=0&k=20&c=qi4YM9HNSFPXXX8Vtty_FFronY0iKhSWqSCmWdRWPLs=" },
+  { id: 13, name: "Markets", image: "https://media.istockphoto.com/id/1556119299/pt/foto/empty-aisles-at-a-supermarket.webp?a=1&b=1&s=612x612&w=0&k=20&c=pd6x8z6K5oTbVboJjdmiFXHt1TWXBeNbSIJnEqEntoE=" },
+  { id: 14, name: "Wine & Spirits", image: "https://media.istockphoto.com/id/501534272/pt/foto/bebidas-alco%C3%B3licas.webp?a=1&b=1&s=612x612&w=0&k=20&c=iLCNSnSs1rCZsHW5LXoqZtKohycrfvN2f7CtanhZUfI=" },
+];
